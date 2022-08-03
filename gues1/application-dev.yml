@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/Vishnuv61/kubernetis1.git
     targetRevision: HEAD
-    path: overlays/dev
+    path: gues1/overlays/dev
   destination:
     server: https://kubernetes.default.svc
     namespace: mc-dev
